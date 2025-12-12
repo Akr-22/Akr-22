@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!-- PROFILE README FOR ARYAN KUMAR -->
 <!-- Copy & paste into README.md -->
