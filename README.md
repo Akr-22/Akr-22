@@ -54,18 +54,6 @@ I enjoy transforming raw data into **stories, decisions, and impact** — throug
 
 ---
 
-## 📌 Featured Project  
-### **🚖 OLA Bengaluru Ride Analytics Dashboard**
-A complete Power BI analytics project built using **100k+ synthetic OLA ride bookings** for Bengaluru.
-
-- Dashboard Pages: **Overall · Vehicle Type · Revenue · Cancellation · Ratings**  
-- Booking trends, cancellation reasons, VTAT/CTAT, payment insights  
-- SQL queries for structured analytics  
-- Built end-to-end with realistic constraints and KPIs  
-
-🔗 **Repo Link:** *(Add your repository URL here)*
-
----
 
 ## 🧩 What I Love Building
 - Clean, story-driven dashboards  
@@ -93,9 +81,9 @@ A complete Power BI analytics project built using **100k+ synthetic OLA ride boo
 ---
 
 ## 🤝 Let's Connect  
-- 📧 Email: **your-email@gmail.com**  
+- 📧 Email: **aryankr2201@gmail.com**  
 - 🔗 LinkedIn: **your-profile**  
-- 🐙 GitHub: **YOUR-GITHUB-USERNAME**
+- 🐙 GitHub: **Akr-22**
 
 ---
 
