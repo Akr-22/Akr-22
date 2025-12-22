@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Data & Business Analyst | B.Tech CSE '25</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/aryan-kumar2201/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:aryankr2201@gmail.com">
@@ -73,7 +73,7 @@ I enjoy transforming raw data into **stories, decisions, and impact** — throug
 
 ## 🤝 Let's Connect  
 - 📧 Email: **aryankr2201@gmail.com**  
-- 🔗 LinkedIn: **your-profile**  
+- 🔗 LinkedIn: **www.linkedin.com/in/aryan-kumar2201**  
 - 🐙 GitHub: **Akr-22**
 
 ---
