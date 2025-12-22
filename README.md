@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:aryankr2201@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/Akr-22">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -60,15 +60,6 @@ I enjoy transforming raw data into **stories, decisions, and impact** — throug
 - Analytics case studies  
 - SQL-based insights  
 - Portfolio projects with measurable impact  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
